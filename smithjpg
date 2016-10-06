@@ -1,6 +1,21 @@
 {
   "parse": "full",
   "response_type": "in_channel",
+  "text": "<http://lorempixel.com/image_output/animals-q-c-640-480-4.jpg>",
+  "attachments": [
+    {
+        "image_url": "http://lorempixel.com/image_output/animals-q-c-640-480-4.jpg"
+    }
+   ],
+   "unfurl_media": true,
+   "unfurl_links": true
+
+ }
+
+
+{
+  "parse": "full",
+  "response_type": "in_channel",
   "text": "<http://i.imgur.com/KTDbDiP.jpg>",
   "attachments": [
     {
