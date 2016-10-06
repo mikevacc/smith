@@ -1,9 +1,7 @@
+content-type: application/json
 {
-    "response_type": "ephemeral",
-    "text": "Here are the currently open tickets:",
     "attachments": [
         {
-            title: "Smith"
             image_url: "https://drive.google.com/open?id=0B4pGgV6I-KDUSFBiQWl5RmU0eVk",
         }
     ]
