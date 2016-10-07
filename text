@@ -1,4 +1,4 @@
 Content-type: application/json
 {
-    "text": "New Help Ticket Received: http://domain.com/ticket/123456"
+    "text": "Hi"
 }
