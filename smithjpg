@@ -1,10 +1,10 @@
 {
   "parse": "full",
   "response_type": "in_channel",
-  "text": "<http://lorempixel.com/image_output/animals-q-c-640-480-4.jpg>",
+  "text": "<http://i.imgur.com/KTDbDiP.jpg>",
   "attachments": [
     {
-        "image_url": "http://lorempixel.com/image_output/animals-q-c-640-480-4.jpg"
+        "image_url": "http://i.imgur.com/KTDbDiP.jpg"
     }
    ],
    "unfurl_media": true,
